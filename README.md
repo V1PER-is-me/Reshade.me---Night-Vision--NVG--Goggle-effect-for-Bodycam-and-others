@@ -20,13 +20,17 @@
 
 
 **!!HUGE DISCLAIMER!!** 
+
+
 ReShade Requires a greater than 80% or "TKL" keyboard due to the need of the "Home" button to open in game
 If you DO NOT have a "Home" button then try configuring one in your keyboards' software like "Logitech G-hub" for Logitech keyboards, or similar.
 If you can - You can set it to a key you do not often press, like "[Backslash\]", "[Right ctrl]", or something similar which is out of the way and rarely used
 
 
 
-Troubleshooting:
+**Troubleshooting:**
+
+
 You may find that ReShade does not load the effects properly and come up with red coloured errors at the top of the effects list;
   - this is almost always due to a fresh installation, close and open the game again to fix
   - If it is still not fixed, go back to the installer and use it again using the exact same process listed above (steps 3-8) to install it again, fixing any errors that may have occured.
