@@ -12,10 +12,12 @@
 7. Then Press "Next" and wait for it to download all the different effects (may take up to 5-8 mins if you have very slow WiFi/Ethernet, usually it's done in about 30 secs though)
 8. Then press "Finish" after it is all installed
 
+
 **!!HUGE DISCLAIMER!!** 
 ReShade Requires a greater than 80% or "TKL" keyboard due to the need of the "Home" button to open in game
 If you DO NOT have a "Home" button then try configuring one in your keyboards' software like "Logitech G-hub" for Logitech keyboards, or similar.
-If you can - You can set it to a key you do not often press, like "\", "Right ctrl", or something similar which is out of the way and rarely used
+If you can - You can set it to a key you do not often press, like "[Backslash\]", "[Right ctrl]", or something similar which is out of the way and rarely used
+
 
 Troubleshooting:
 You may find that ReShade does not load the effects properly and come up with red coloured errors at the top of the effects list;
