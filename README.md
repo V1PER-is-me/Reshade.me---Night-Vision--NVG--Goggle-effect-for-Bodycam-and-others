@@ -1,5 +1,6 @@
-- - - Read this in the "README.md" file for better formatting - - - 
+- Read this in the "README.md" file for original formatting -
 
+<img width="1181" height="599" alt="Screenshot 2026-09-27 163240" src="https://github.com/user-attachments/assets/406e2558-71b3-4455-9708-d7f1e6e2c928" />
 **To install Re-Shade:**
 1. Go to "https://ReShade.me"
 2. Scroll to the bottom and click on "Download ReShade 6.8.0" (or whatever version is most 'up-to-date' at the time you are reading this.)
