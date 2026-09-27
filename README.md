@@ -1,6 +1,10 @@
 - Read this in the "README.md" file for original formatting -
 
+
 <img width="1181" height="599" alt="Screenshot 2026-09-27 163240" src="https://github.com/user-attachments/assets/406e2558-71b3-4455-9708-d7f1e6e2c928" />
+
+
+
 **To install Re-Shade:**
 1. Go to "https://ReShade.me"
 2. Scroll to the bottom and click on "Download ReShade 6.8.0" (or whatever version is most 'up-to-date' at the time you are reading this.)
@@ -14,10 +18,12 @@
 8. Then press "Finish" after it is all installed
 
 
+
 **!!HUGE DISCLAIMER!!** 
 ReShade Requires a greater than 80% or "TKL" keyboard due to the need of the "Home" button to open in game
 If you DO NOT have a "Home" button then try configuring one in your keyboards' software like "Logitech G-hub" for Logitech keyboards, or similar.
 If you can - You can set it to a key you do not often press, like "[Backslash\]", "[Right ctrl]", or something similar which is out of the way and rarely used
+
 
 
 Troubleshooting:
