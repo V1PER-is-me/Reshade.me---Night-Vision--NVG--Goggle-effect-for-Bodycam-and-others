@@ -18,6 +18,8 @@
 8. Then press "Finish" after it is all installed
 
 
+**SEE BOTTOM FOR ANY TROUBLESHOOTING SOLUTIONS YOU MAY NEED**
+
 
 **!!HUGE DISCLAIMER!!** 
 
