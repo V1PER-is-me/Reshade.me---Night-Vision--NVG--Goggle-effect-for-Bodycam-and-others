@@ -94,10 +94,11 @@ Screenshot of all the settings <3:
 *Similarly, if you get sore eyes looking at green all the time, you can change the RGB values to display a Blue NVG, Red NVG, Yellow, or any other colour you want to suit colourblindness and personal preference.*
 
 
-Go subscribe to my YT if you followed the guide and leave a comment on the video <3 
+**Go subscribe to my YT if you followed the guide and leave a comment on the video <3 you'd be giving me free money** 
+
 this contains all my socials:
 https://guns.lol/ItzPunchy
 
-If you notice anything wrong with this guide or have Questions then ask me directly on discord!!
+**If you notice anything wrong with this guide or have Questions then ask me directly on discord!!**
 
 
