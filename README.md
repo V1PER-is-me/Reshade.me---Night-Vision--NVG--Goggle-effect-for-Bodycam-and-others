@@ -88,8 +88,11 @@ Screenshot of all the settings <3:
 <img width="2559" height="1439" alt="Screenshot 2026-09-27 162705" src="https://github.com/user-attachments/assets/2a2b1d20-dcad-41e4-b56e-0da1928edeeb" />
 
 *This is a setup for a very clear looking NVG filter, if you want it to look more realistic and include more visual artifacts "Fireflies" then increase "Grain": and "Grain Size": according to your tastes and preferences*
+
 *You can also change the "Keep Original Colours" to keep original colour, but also make the dark areas brighter at the same time. (This could be considered unfair competitive advantage, use at your own risk if you make videos or are going to be using this in content creation)*
+
 *Similarly, if you get sore eyes looking at green all the time, you can change the RGB values to display a Blue NVG, Red NVG, Yellow, or any other colour you want to suit colourblindness and personal preference.*
+
 
 Go subscribe to my YT if you followed the guide and leave a comment on the video <3 
 this contains all my socials:
