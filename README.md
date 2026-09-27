@@ -27,19 +27,6 @@ If you DO NOT have a "Home" button then try configuring one in your keyboards' s
 If you can - You can set it to a key you do not often press, like "[Backslash\]", "[Right ctrl]", or something similar which is out of the way and rarely used
 
 
-
-**Troubleshooting:**
-
-
-You may find that ReShade does not load the effects properly and come up with red coloured errors at the top of the effects list;
-  - this is almost always due to a fresh installation, close and open the game again to fix
-  - If it is still not fixed, go back to the installer and use it again using the exact same process listed above (steps 3-8) to install it again, fixing any errors that may have occured.
-  - If that still wont work, uninstall ReShade, again from the installer and then do a full fresh Re-Install following steps 3-8 above
-
-You may also find your DLSS is not working after this install:
-- I'm not entirely sure if this is related to Re-Shade or other modifications i've done to this game, but to fix it, try and reinstall reshade again, or disable all effects and restart the game then re-equip them
-- This is not a likely problem to occur, but it happened to me, whether related to Re-Shade or editing the engine.ini files, either way, ignore this 99% of the time I do not believe it will be a big issue.
-
 **-After installing Re-Shade-**
 
 **To install the "BodycamNightVision.fx":**
@@ -106,3 +93,14 @@ https://guns.lol/ItzPunchy
 **If you notice anything wrong with this guide or have Questions then ask me directly on discord!!**
 
 
+**Troubleshooting:**
+
+
+You may find that ReShade does not load the effects properly and come up with red coloured errors at the top of the effects list;
+  - this is almost always due to a fresh installation, close and open the game again to fix
+  - If it is still not fixed, go back to the installer and use it again using the exact same process listed above (steps 3-8) to install it again, fixing any errors that may have occured.
+  - If that still wont work, uninstall ReShade, again from the installer and then do a full fresh Re-Install following steps 3-8 above
+
+You may also find your DLSS is not working after this install:
+- I'm not entirely sure if this is related to Re-Shade or other modifications i've done to this game, but to fix it, try and reinstall reshade again, or disable all effects and restart the game then re-equip them
+- This is not a likely problem to occur, but it happened to me, whether related to Re-Shade or editing the engine.ini files, either way, ignore this 99% of the time I do not believe it will be a big issue.
