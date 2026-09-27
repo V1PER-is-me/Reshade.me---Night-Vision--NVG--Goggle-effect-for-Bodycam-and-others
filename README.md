@@ -54,7 +54,9 @@ You may also find your DLSS is not working after this install:
 12. Now that you are there, just drag and drop the "BodycamNightVision.fx" into that folder ("Shaders")
 The file does not need to be inside a separate folder within ("Shaders"), just chuck it in there at the bottom of the "Shaders" folder amongst the other loose files
 
+
 **The Final folder path should look like this: C:\Program Files (x86)\Steam\apps\steamapps\common\Bodycam\Bodycam\Binaries\Win64\reshade-shaders\Shaders**
+
 
 Recommended: You can just copy paste the full file directory above into the address bar to save you some time navigating, not necessary but it is faster.
 
